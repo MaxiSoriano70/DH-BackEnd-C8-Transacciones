@@ -1,0 +1,47 @@
+
+}
+java:S11410"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÜÏ­×÷1J$f6c5ef08-c8e3-4c76-acc8-fb7297212182
+•
+java:S1104"RMake LOGGER a static final constant or non-public and provide accessors if needed.(ß€Ü«8ŞÏ­×÷1J$02f87a2e-76ad-4bfa-96ee-a55c5fcc4ee4
+
+java:S1104	"VMake SQL_CREATE a static final constant or non-public and provide accessors if needed.(‹ØÃëúÿÿÿÿ8ŞÏ­×÷1J$3b3bbb3a-7cb1-4001-9f69-095dc646d04d
+™
+java:S1104"VMake SQL_INSERT a static final constant or non-public and provide accessors if needed.(­¡É¹8ŞÏ­×÷1J$5ed281e6-d844-4249-a689-791e116dd711
+¤
+java:S1104"\Make SQL_SELECT_TODOS a static final constant or non-public and provide accessors if needed.(²Ûãşÿÿÿÿ8ŞÏ­×÷1J$8fc557de-ce96-48b5-b444-5358878ccee1
+™
+java:S1104"VMake SQL_UPDATE a static final constant or non-public and provide accessors if needed.(Ô®»‰8ŞÏ­×÷1J$9025affc-5d70-4cff-9b67-12b28482b321
+o
+java:S1444",Make this "public static LOGGER" field final(ß€Ü«8ßÏ­×÷1J$33357c2e-66ca-4f13-ae6e-335bdf994ba3
+x
+java:S1444	"0Make this "public static SQL_CREATE" field final(‹ØÃëúÿÿÿÿ8àÏ­×÷1J$2109bcd4-d731-4340-9238-01a9ca112273
+s
+java:S1444"0Make this "public static SQL_INSERT" field final(­¡É¹8àÏ­×÷1J$bb90ebf1-641f-4372-871e-929d436a32a9
+~
+java:S1444"6Make this "public static SQL_SELECT_TODOS" field final(²Ûãşÿÿÿÿ8àÏ­×÷1J$e3450012-71c8-4633-a00d-2d1025e0b3c8
+s
+java:S1444"0Make this "public static SQL_UPDATE" field final(Ô®»‰8àÏ­×÷1J$428ed070-f569-4bd5-910e-e9c051138972
+—
+java:S22594"OA "NullPointerException" could be thrown; "odontologoDesdeDB" is nullable here.(Õ§Œçüÿÿÿÿ8ŞÓ®×÷1J$d639c354-11c3-4f31-a029-b01c74cefbd6
+`
+java:S35186"CMake sure this expression can't be zero before doing this division.(˜º£À8Í¹×÷1
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8ßÓ®×÷1J$b19e9caf-67fc-4fa1-9184-8500c4263b81
+’
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¦‰çÜ8ßÓ®×÷1J$b6e01dfb-7198-4a60-9fee-83fe201abec1
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–„À¸ùÿÿÿÿ8ßÓ®×÷1J$9d625297-5a71-437e-a102-328e6b406c04
+”
+java:S3008"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß€Ü«8æÏ­×÷1J$7158a15b-f314-433c-b572-ce4cb814db10
+
+java:S3008	"URename this field "SQL_CREATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ØÃëúÿÿÿÿ8æÏ­×÷1J$e78f766c-b25e-4139-a7e9-eb0431095c77
+˜
+java:S3008"URename this field "SQL_INSERT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¡É¹8æÏ­×÷1J$fd81ff0e-2d8c-4e67-9bb8-88cdd73a0b7f
+£
+java:S3008"[Rename this field "SQL_SELECT_TODOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ûãşÿÿÿÿ8æÏ­×÷1J$c4e2e230-ad99-437b-a9a7-554e42997c8d
+˜
+java:S3008"URename this field "SQL_UPDATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô®»‰8æÏ­×÷1J$b4a9a124-0f77-44d5-a002-b673d2ae2789
+g
+java:S6905"Don't use the query "SELECT *".(²Ûãşÿÿÿÿ8îÏ­×÷1J$a7717b45-f7f5-479b-9cbf-affdb24243d0
+H
+java:S14816"+Remove this unused "numero" local variable.(˜º£À8ŸÍ¹×÷1

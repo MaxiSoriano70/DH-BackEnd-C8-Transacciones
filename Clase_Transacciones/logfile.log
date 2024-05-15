@@ -1,0 +1,23 @@
+[2024-05-14 23:09:08] [ ERROR] [Main:58] Error de Sintaxis en sentencia SQL "CREATE TABLE ODONTOLOGOS [*]ID INT AUTO_INCREMENT PRIMARY KEY,NOMBRE VARCHAR(50) NOT NULL,MATRICULA VARCHAR(100) NOT NULL"
+Syntax error in SQL statement "CREATE TABLE ODONTOLOGOS [*]ID INT AUTO_INCREMENT PRIMARY KEY,NOMBRE VARCHAR(50) NOT NULL,MATRICULA VARCHAR(100) NOT NULL"; SQL statement:
+CREATE TABLE ODONTOLOGOS ID INT AUTO_INCREMENT PRIMARY KEY,NOMBRE VARCHAR(50) NOT NULL,MATRICULA VARCHAR(100) NOT NULL [42000-214]
+[2024-05-14 23:11:20] [ ERROR] [Main:55] Parametro "#3" no está fijado
+Parameter "#3" is not set; SQL statement:
+UPDATE ODONTOLOGOS SET NOMBRE=?, MATRICULA=? WHERE ID=? [90012-214]
+[2024-05-14 23:13:16] [ INFO ] [Main:42] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-14 23:13:16] [ ERROR] [Main:56] Parametro "#3" no está fijado
+Parameter "#3" is not set; SQL statement:
+UPDATE ODONTOLOGOS SET NOMBRE=?, MATRICULA=? WHERE ID=? [90012-214]
+[2024-05-14 23:13:16] [ INFO ] [Main:58] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-14 23:14:34] [ INFO ] [Main:42] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-14 23:14:34] [ INFO ] [Main:60] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-14 23:16:59] [ ERROR] [Main:48] Cannot invoke "clase10.transacciones.model.Odontologo.getId()" because "odontologoDB" is null
+[2024-05-14 23:16:59] [ INFO ] [Main:60] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-14 23:19:15] [ ERROR] [Main:48] Cannot invoke "clase10.transacciones.model.Odontologo.getId()" because "odontologoDB" is null
+[2024-05-14 23:19:15] [ INFO ] [Main:60] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-15 03:21:29] [ INFO ] [Main:43] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-15 03:26:13] [ INFO ] [Main:43] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-15 03:26:13] [ INFO ] [Main:62] Datos de ODONTOLOGO: Odontologoid=1, nombre='Karen Dominguez', matricula='707070'
+[2024-05-15 03:26:37] [ INFO ] [Main:43] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
+[2024-05-15 03:26:37] [ ERROR] [Main:60] / by zero
+[2024-05-15 03:26:37] [ INFO ] [Main:63] Datos de ODONTOLOGO: Odontologoid=1, nombre='COSME FULANITO', matricula='696969'
